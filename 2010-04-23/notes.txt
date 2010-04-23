@@ -1,0 +1,7 @@
+Started: 7.08
+  Ended: 7.41
+
+33 minutes
+
+* trying module approach from Corey
+* got stuck on adding a sum method to String via module (works w/ opening the class)
