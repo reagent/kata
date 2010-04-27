@@ -1,0 +1,7 @@
+Started: 09.56
+  Ended: 10.18
+
+22 minutes
+
+* may have taken a bigger step before doing the "handle an unknown amount of numbers"
+* digits method created after handling negatives introduced
