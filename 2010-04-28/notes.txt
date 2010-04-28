@@ -1,0 +1,9 @@
+ Started: 08.10
+Midpoint: 08.24
+  Ended : 08.30
+
+20 minutes
+
+* started with to_i as the second step
+* there may be a hole in the logic somewhere - need to check the multiple delimiter scenario a bit better
+* switch it up next time - try testing the composite pieces
