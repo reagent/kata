@@ -1,0 +1,2 @@
+* Took a different approach to start - using String.prototype
+* Loosely timed: ~ 1hr
