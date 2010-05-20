@@ -1,0 +1,9 @@
+ Started: 09.00
+  Ended : 09.54
+  
+54 minutes
+
+* Tried a new testing framework: RhinoUnit
+* Went for most obvious correct implementation first
+* Got stuck on no Array.reduce method, created Array.sum instead
+* Scoped the prototyped methods within main StringCalculator function, seemed to still be available in the global scope
