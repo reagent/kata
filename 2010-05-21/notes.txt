@@ -1,0 +1,4 @@
+Started: 09:55
+  Ended: 10:30
+
+* Added a toInteger() method to string that helped resolve Regexp-related nonsense from previous takes
